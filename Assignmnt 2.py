@@ -31,7 +31,7 @@ print(even)
 
 print("How to do standard derivation in python?")
 
-salman = [99, 86 , 7 , 88 , 11 , 80 , 1233 , 833]
+adnan = [99, 86 , 7 , 88 , 11 , 80 , 1233 , 833]
 st = np.std(adnan)
 print(st)
 
